@@ -1,1 +1,1 @@
-# Credit-Card-Risk-Detection-Final-Project
+# Credit-Card-FraudRisk-Detection-FinalProject
