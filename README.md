@@ -1,5 +1,4 @@
 <h1 align="center">Credit Card FraudRisk Detection</h1>
-<img src="https://user-images.githubusercontent.com/98824669/177537798-5975d522-0666-49f2-a4d8-3f538be29074.jpg" height="25%" width="100%" alt=""/>
 <head>
  <h2>Tools :</h2>
 </head>
@@ -21,6 +20,9 @@
    <li>At present, with the development of machine learning algorithms. More predictive methods such as Boosting, Random Forest, and Support Vector Machines have been introduced into credit card scoring. However, these methods often do not have good transparency. It may be difficult to provide customers and regulators with a reason for rejection or acceptance.</li>
   </ul>
  </body>
+ 
+ <img src="https://user-images.githubusercontent.com/98824669/177537798-5975d522-0666-49f2-a4d8-3f538be29074.jpg" height="25%" width="100%" alt=""/>
+ 
  <head>
    <h2>Problem Statement :</h2>
  </head>
