@@ -61,4 +61,37 @@ At present, with the development of machine learning algorithms. More predictive
    <li>Conclusion</li>
   </ol>
  </body>
+ <head>
+  <h2>ML approaches :</h2>
+ </head>
+ <body>
+  <ul>
+   <li>Logistic Regression</li>
+   <li>Random Forest Classifier</li>
+   <li>Decision Tree Classifier</li>
+   <li>Naive Bayes</li>
+   <li>AdaBoost Classifier</li>
+  </ul>
+ </body>
+ <head>
+  <h2>ML approach Functions :</h2>
+ </head>
+ <body>
+  <ul>
+   <li>Model fitting</li>
+   <li>Predicting using test</li>
+   <li>Accuracy score</li>
+   <li>Confusion matrix</li>
+   <li>Classification Report</li>
+   <li>time taken by each model</li>
+  </ul>
+ </body>
+ 
+
+
+
+
+
+
+
  
