@@ -1,5 +1,14 @@
 <h1 align="center">Credit Card FraudRisk Detection</h1>
-![12](https://user-images.githubusercontent.com/98824669/177502556-a6a3980a-ad22-4a1f-990d-92d47ff9980c.jpg)
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>The img element</h1>
+
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcorpbiz.io%2Flearning%2Fwp-content%2Fuploads%2F2020%2F03%2FFraud-Risk-Management.jpg&imgrefurl=https%3A%2F%2Fcorpbiz.io%2Flearning%2Ffraud-risk-management-solutions-are-the-need-of-the-hour%2F&tbnid=3MPSymzrK79IXM&vet=12ahUKEwih-7S15eP4AhU6k9gFHWvhAfUQMygAegUIARC7AQ..i&docid=76-G-YGBgFlpjM&w=670&h=352&q=fraud%20risk&ved=2ahUKEwih-7S15eP4AhU6k9gFHWvhAfUQMygAegUIARC7AQ.jpg" alt="Fraud-risk-management" width="500" height="600">
+
+</body>
+</html>
 <head>
  <h2>Tools :</h2>
 </head>
