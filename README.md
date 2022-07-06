@@ -1,5 +1,5 @@
 <h1 align="center">Credit Card FraudRisk Detection</h1>
-![attachment:12.jpg](http://url/to/12.png)
+![attachment:12.jpg]("C:\Users\prasa\Downloads\12.jpg")
 <head>
  <h2>Tools :</h2>
 </head>
