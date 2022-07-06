@@ -50,9 +50,9 @@ At present, with the development of machine learning algorithms. More predictive
    <h2>Exploratory Data Analysis :</h2>
  </head>
  <body>
-  #### Table of Contents:
-* Importing Libraries
-* Reading and Preparing the dataset 
+  <h2>Table of Contents:</h2>
+- Importing Libraries
+- Reading and Preparing the dataset 
 * Exploring the data
 * Cleaning the data 
 * Exracting the data
