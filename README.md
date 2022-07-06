@@ -51,13 +51,15 @@ At present, with the development of machine learning algorithms. More predictive
  </head>
  <body>
   <h2>Table of Contents:</h2>
-- Importing Libraries
-- Reading and Preparing the dataset 
-* Exploring the data
-* Cleaning the data 
-* Exracting the data
-* Visualizing the data 
-* Creating a model
-* Conclusion 
+  <ol>
+   <li>Importing Libraries</li>
+   <li>Reading and Preparing the dataset</li> 
+   <li>Exploring the data</li>
+   <li>Cleaning the data</li> 
+   <li>Exracting the data</li>
+   <li>Visualizing the data</li> 
+   <li>Creating a model</li>
+   <li>Conclusion</li>
+  </ol>
  </body>
  
