@@ -28,9 +28,8 @@ At present, with the development of machine learning algorithms. More predictive
  <body>
  There are 13 Variables that describes the features of the Dataset.
   
- <h3 align="center">Dataset Details</h3>
-    
-    
+ <h3 align="lest">Dataset Details</h3>
+     
 |<h5 align="center">Field</h5> | <h5 align="center">Description</h5> |
 |------|-------------|
 |<h5 align="left">Gender :</h5>|<h5 align="left">Gender of the applicant (Female/Male)</h5>|
