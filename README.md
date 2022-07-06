@@ -93,6 +93,7 @@ At present, with the development of machine learning algorithms. More predictive
  <body>
   <ul>
    <li>Time taken is maximum for Random Forest Classifier and minimum for Naive Bayes For a best model prediction</li>
+   <li>Accuracy is maximum for Random Forest and minimum for Naive Bayes
    <li>Random Forest is the best from among the models trained to predict the accurate result with an accuracy of 93% and time taken to execute is 14s.</li>
   </ul>
  </body>
@@ -131,6 +132,9 @@ At present, with the development of machine learning algorithms. More predictive
     <td>0.12</td>
   </tr>
 </table>
+  <ul>   
+    <li>Random Forest is the best from among the models trained to predict the accurate result with an accuracy of 93% and time taken to execute is 14s.</li>
+  </ul>
  
 
  
