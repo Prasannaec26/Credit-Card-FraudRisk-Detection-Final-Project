@@ -97,6 +97,7 @@ At present, with the development of machine learning algorithms. More predictive
    <li>Random Forest is the best from among the models trained to predict the accurate result with an accuracy of 93% and time taken to execute is 14s.</li>
   </ul>
  </body>
+ 
  <table>
   <tr>
     <th>Model</th>
@@ -132,8 +133,9 @@ At present, with the development of machine learning algorithms. More predictive
     <td>0.12</td>
   </tr>
 </table>
+     
   <ul>   
-    <li>Random Forest is the best from among the models trained to predict the accurate result with an accuracy of 93% and time taken to execute is 14s.</li>
+    <li>Random Forest is the best from among the models trained to predict the accurate result with an accuracy of 93% and time taken to execute is 23s.</li>
   </ul>
  
 
