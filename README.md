@@ -47,10 +47,9 @@ At present, with the development of machine learning algorithms. More predictive
 |<h5 align="left">Fraud Risk :</h5>|<h5 align="left">Whether the fraud risk is there or not</h5>|
  </body>
  <head>
-   <h2>Exploratory Data Analysis :</h2>
+  <h2>Table of Contents:</h2>
  </head>
  <body>
-  <h2>Table of Contents:</h2>
   <ol>
    <li>Importing Libraries</li>
    <li>Reading and Preparing the dataset</li> 
