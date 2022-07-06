@@ -1,5 +1,5 @@
 <h1 align="center">Credit Card FraudRisk Detection</h1>
-![git](https://user-images.githubusercontent.com/98824669/177534759-f7e6b0cd-a5a4-4cae-b0ee-2f192ffca779.jpg)
+<img src="https://user-images.githubusercontent.com/98824669/177534759-f7e6b0cd-a5a4-4cae-b0ee-2f192ffca779.jpg" height="25%" width="100%" alt=""/>
 <head>
  <h2>Tools :</h2>
 </head>
