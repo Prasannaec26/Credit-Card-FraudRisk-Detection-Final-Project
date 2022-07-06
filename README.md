@@ -65,7 +65,7 @@ At present, with the development of machine learning algorithms. More predictive
   <h2>ML approaches :</h2>
  </head>
  <body>
-  The aim is to create a model that helps the users to apply machine learning approach to predict the Fraud Risk.
+  The aim is to apply machine learning approach to predict the Fraud Risk.
   <ul>
    <li>Logistic Regression</li>
    <li>Random Forest Classifier</li>
@@ -87,6 +87,52 @@ At present, with the development of machine learning algorithms. More predictive
    <li>time taken by each model</li>
   </ul>
  </body>
+ <head>
+  <h2>Conclusion :</h2>
+ </head>
+ <body>
+  <ul>
+   <li>Time taken is maximum for Random Forest Classifier and minimum for Naive Bayes For a best model prediction</li>
+   <li>Random Forest is the best from among the models trained to predict the accurate result with an accuracy of 93% and time taken to execute is 14s.</li>
+  </ul>
+ </body>
+ <table>
+  <tr>
+    <th>Model</th>
+    <th>Accuracy Percentage</th>
+      <th>Timetaken</th>
+  
+  </tr>
+  <tr>
+    <td><u>Logistic Regression<u></td>
+    <td>90%</td>
+    <td>0.03</td>
+  </tr>
+        </tr>
+  <tr>
+    <td><u>Decision Tree Classifier<u></td>
+    <td>92%</td>
+    <td>0.008</td>
+  </tr>
+        </tr>
+  <tr>
+    <td><u>Random Forest<u></td>
+    <td>93%</td>
+    <td>0.23</td>>
+  </tr>
+  <tr>
+    <td><u>Naive Bayes<u></td>
+    <td>90%</td>
+        <td>0.009</td>
+  </tr>
+  <tr>
+    <td><u>ADA Boost<u></td>
+    <td>92%</td>
+    <td>0.12</td>
+  </tr>
+</table>
+ 
+
  
 
 
