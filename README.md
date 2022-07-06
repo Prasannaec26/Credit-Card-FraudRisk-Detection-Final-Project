@@ -17,9 +17,33 @@ Generally speaking, credit score cards are based on historical data. Once encoun
 At present, with the development of machine learning algorithms. More predictive methods such as Boosting, Random Forest, and Support Vector Machines have been introduced into credit card scoring. However, these methods often do not have good transparency. It may be difficult to provide customers and regulators with a reason for rejection or acceptance.
  </body>
  <head>
-   <h2>Problem Statement</h2>
+   <h2>Problem Statement :</h2>
  </head>
  <body>
  Build a model to predict Whether the Credit Card Fraud Risk is there or not
  </body>
- 
+ <head>
+   <h2>Description :</h2>
+ </head>
+ <body>
+ There are 13 Variables that describes the features of the Dataset.
+  
+ <h3 align="center">Dataset Details</h3>
+    
+    
+|<h5 align="center">Field</h5> | <h5 align="center">Description</h5> |
+|------|-------------|
+|<h5 align="left">Gender :</h5>|<h5 align="left">Gender of the applicant (Female/Male)</h5>|
+|<h5 align="left">Married :</h5>|<h5 align="left">Marital status of the applicant (Married/single)</h5>|
+|<h5 align="left">Dependents :</h5>|<h5 align="left">The applicant is dependent on some one or not</h5>|
+|<h5 align="left">Education :</h5>|<h5 align="left">whether the applicant is educated or not</h5>|
+|<h5 align="left">Self Employed :</h5>|<h5 align="left">Applicant is Self Employed or not</h5>|
+|<h5 align="left">Applicant Income :</h5>|<h5 align="left">Income status of the applicant</h5>|
+|<h5 align="left">Coapplicant Income :</h5>|<h5 align="left">Income status of the coapplicant</h5>|
+|<h5 align="left">Credit History :</h5>|<h5 align="left">Applicant Credit History Availablity</h5>|
+|<h5 align="left">LoanAmount :</h5>|<h5 align="left">Applicant Loan amount status </h5>|
+|<h5 align="left">Loan Term :</h5>|<h5 align="left">Applicant Loan term status</h5>|
+|<h5 align="left">Housing :</h5>|<h5 align="left">The Applicant has house or not</h5>|
+|<h5 align="left">Locality :</h5>|<h5 align="left">Applicant Locality status</h5>|
+|<h5 align="left">Fraud Risk :</h5>|<h5 align="left">Whether the fraud risk is there or not</h5>|
+ </body>
