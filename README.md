@@ -39,23 +39,23 @@
    <li>There are 13 Variables that describes the features of the Dataset.</li>
   </ul>
   
- <h3 align="lest">Dataset Details</h3>
+ <h3 align="left">Dataset Details</h3>
      
-|<h5 align="center">Field</h5> | <h5 align="center">Description</h5> |
+| Field | Description |
 |------|-------------|
-|<h5 align="left">Gender :</h5>|<h5 align="left">Gender of the applicant (Female/Male)</h5>|
-|<h5 align="left">Married :</h5>|<h5 align="left">Marital status of the applicant (Married/single)</h5>|
-|<h5 align="left">Dependents :</h5>|<h5 align="left">The applicant is dependent on some one or not</h5>|
-|<h5 align="left">Education :</h5>|<h5 align="left">whether the applicant is educated or not</h5>|
-|<h5 align="left">Self Employed :</h5>|<h5 align="left">Applicant is Self Employed or not</h5>|
-|<h5 align="left">Applicant Income :</h5>|<h5 align="left">Income status of the applicant</h5>|
-|<h5 align="left">Coapplicant Income :</h5>|<h5 align="left">Income status of the coapplicant</h5>|
-|<h5 align="left">Credit History :</h5>|<h5 align="left">Applicant Credit History Availablity</h5>|
-|<h5 align="left">LoanAmount :</h5>|<h5 align="left">Applicant Loan amount status </h5>|
-|<h5 align="left">Loan Term :</h5>|<h5 align="left">Applicant Loan term status</h5>|
-|<h5 align="left">Housing :</h5>|<h5 align="left">The Applicant has house or not</h5>|
-|<h5 align="left">Locality :</h5>|<h5 align="left">Applicant Locality status</h5>|
-|<h5 align="left">Fraud Risk :</h5>|<h5 align="left">Whether the fraud risk is there or not</h5>|
+| Gender : | Gender of the applicant (Female/Male) |
+| Married : | Marital status of the applicant (Married/single) |
+| Dependents : | The applicant is dependent on some one or not |
+| Education : | whether the applicant is educated or not |
+| Self Employed : | Applicant is Self Employed or not |
+| Applicant Income : | Income status of the applicant |
+| Coapplicant Income : | Income status of the coapplicant |
+| Credit History : | Applicant Credit History Availablity |
+| LoanAmount : | Applicant Loan amount status |
+| Loan Term : | Applicant Loan term status |
+| Housing : | The Applicant has house or not |
+| Locality : | Applicant Locality status |
+| Fraud Risk : | Whether the fraud risk is there or not |
  </body>
  <head>
   <h2>Table of Contents:</h2>
