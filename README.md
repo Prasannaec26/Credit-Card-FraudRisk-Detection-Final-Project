@@ -65,6 +65,7 @@ At present, with the development of machine learning algorithms. More predictive
   <h2>ML approaches :</h2>
  </head>
  <body>
+  The aim is to create a model that helps the users to apply machine learning approach to predict the Fraud Risk.
   <ul>
    <li>Logistic Regression</li>
    <li>Random Forest Classifier</li>
