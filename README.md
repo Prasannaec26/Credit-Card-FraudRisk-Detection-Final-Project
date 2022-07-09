@@ -61,16 +61,14 @@
   <h2>Table of Contents:</h2>
  </head>
  <body>
-  <ol>
-   <li>Importing Libraries</li>
-   <li>Reading and Preparing the dataset</li> 
-   <li>Exploring the data</li>
-   <li>Cleaning the data</li> 
-   <li>Exracting the data</li>
-   <li>Visualizing the data</li> 
-   <li>Creating a model</li>
-   <li>Conclusion</li>
-  </ol>
+   Importing Libraries
+   Reading and Preparing the dataset
+   Exploring the data
+   Cleaning the data
+   Exracting the data
+   Visualizing the data 
+   Creating a model
+   Conclusion
  </body>
  <head>
   <h2>ML approaches :</h2>
